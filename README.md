@@ -61,13 +61,13 @@
 1. **CLI режим**:
    ```bash
    cd src
-   ../.venv/bin/python main.py --cli
+   python main.py --cli
    ```
 
 2. **GUI режим**:
    ```bash
    cd src
-   ../.venv/bin/python main.py
+   python main.py
    ```
 
 ## Использование
