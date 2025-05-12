@@ -31,8 +31,8 @@
 
 1. **Клонируйте репозиторий**:
    ```bash
-   git clone https://github.com/your-username/smart-home.git
-   cd smart-home
+   git clone https://github.com/Diu410/-home-ogkrupki-Model_smart_house_gui_plus_cli
+   cd Model_smart_house_gui_plus_cli
    ```
 
 2. **Создайте виртуальную среду**:
